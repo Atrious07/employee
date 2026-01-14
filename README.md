@@ -26,4 +26,19 @@ It allows users to manage tasks efficiently with authentication and persistent s
 ---
 
 ## 📂 Project Structure
+src/
+├── components/
+├── pages/
+├── context/
+├── utils/
+├── App.jsx
+├── main.jsx
+
+## ▶️ How to Run Locally
+
+```bash
+npm install
+npm run dev
+http://localhost:5173
+
 
